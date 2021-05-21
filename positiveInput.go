@@ -27,5 +27,6 @@ func main() {
 		// output of wrong answer
 		fmt.Println("It is positive.")
 	}
+
 	fmt.Println("\nDone.")
 }
